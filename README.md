@@ -1,15 +1,16 @@
 # Thai Handwritten Recognition
 > Short blurb about what your product does.
 
+![1589814492892](https://user-images.githubusercontent.com/25294734/82229109-342eb400-9954-11ea-8b0f-8e15b5ab6d3e.gif)
 
-![](header.png)
+# Demo
+- https://kzis.github.io/thai-handwritten-recognition-frontend/#
 
-![prayut](https://user-images.githubusercontent.com/25294734/59875651-7a3d6980-93cb-11e9-8e17-6caf945682eb.gif)
+# Source
+- Frontend : https://github.com/Kzis/thai-handwritten-recognition-frontend
+- Backend : https://github.com/Kzis/thai-handwritten-recognition-backend
 
-
-
-
-## Prepare Environment
+# Prepare Environment
 
   1. Clone labelImg Repository
   - เพื่อ สร้าง Label ของ Dataset ที่เป็น Images
@@ -30,13 +31,13 @@
       - pip install tensorflow-gpu==1.10.0
       - pip install keras
       ```
-## Prepare Data
+# Prepare Data
 - xxx
 
-## Train Model
+# Train Model
 - xxx
 
-## Contributors
+# Contributors
 1. นายนราชันย์ ปัญญาจักร 61104220029
 2. นายชลัช มงคลถิรภัทร์ 6110422032
 3. นายอติเทพ กิติธีระกุล 6110422047
