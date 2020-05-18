@@ -13,25 +13,25 @@
 # Prepare Environment
 
   1. Clone labelImg Repository
-  - เพื่อ สร้าง Label ของ Dataset ที่เป็น Images
-      ```
-       git clone https://github.com/tzutalin/labelImg
-      ```
+    - เพื่อ สร้าง Label ของ Dataset ที่เป็น Images
+        ```
+         git clone https://github.com/tzutalin/labelImg
+        ```
 
   2. Install Programs
-  - Install Visual Studio Community 2019
-    - https://visualstudio.microsoft.com/downloads/
+    - Install Visual Studio Community 2019
+      - https://visualstudio.microsoft.com/downloads/
 
   3. Install Tensorflow GPU
-  - conda create -n mytf python=3.6 anaconda
-  - activate mytf
-     ```
-      - pip install opencv-contrib-python
-      - pip install tensorflow==1.15.0
-      - pip install tensorflow-gpu==1.10.0
-      - pip install keras
-      ```
-# Prepare Data
+    - conda create -n mytf python=3.6 anaconda
+    - activate mytf
+       ```
+        - pip install opencv-contrib-python
+        - pip install tensorflow==1.15.0
+        - pip install tensorflow-gpu==1.10.0
+        - pip install keras
+        ```
+ # Prepare Data
 - xxx
 
 # Train Model
