@@ -18,8 +18,10 @@
      git clone https://github.com/tzutalin/labelImg
     ```
 
+
   Install Programs
   - https://visualstudio.microsoft.com/downloads/
+
 
   Install Tensorflow GPU
   - conda create -n mytf python=3.6 anaconda
