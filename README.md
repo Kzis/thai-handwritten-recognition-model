@@ -11,18 +11,18 @@
 - Backend : https://github.com/Kzis/thai-handwritten-recognition-backend
 
 # Prepare Environment
+  
+  Clone labelImg Repository
+  - เพื่อ สร้าง Label ของ Dataset ที่เป็น Images
+    ```
+     git clone https://github.com/tzutalin/labelImg
+    ```
 
-  1. Clone labelImg Repository
-    - เพื่อ สร้าง Label ของ Dataset ที่เป็น Images
-        ```
-         git clone https://github.com/tzutalin/labelImg
-        ```
-
-  2. Install Programs
-    - Install Visual Studio Community 2019
+  Install Programs
+  - Install Visual Studio Community 2019
       - https://visualstudio.microsoft.com/downloads/
 
-  3. Install Tensorflow GPU
+  Install Tensorflow GPU
     - conda create -n mytf python=3.6 anaconda
     - activate mytf
        ```
