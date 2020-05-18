@@ -19,18 +19,17 @@
     ```
 
   Install Programs
-  - Install Visual Studio Community 2019
-      - https://visualstudio.microsoft.com/downloads/
+  - https://visualstudio.microsoft.com/downloads/
 
   Install Tensorflow GPU
-    - conda create -n mytf python=3.6 anaconda
-    - activate mytf
-       ```
-        - pip install opencv-contrib-python
-        - pip install tensorflow==1.15.0
-        - pip install tensorflow-gpu==1.10.0
-        - pip install keras
-        ```
+  - conda create -n mytf python=3.6 anaconda
+  - activate mytf
+    ```
+    - pip install opencv-contrib-python
+    - pip install tensorflow==1.15.0
+    - pip install tensorflow-gpu==1.10.0
+    - pip install keras
+    ```
  # Prepare Data
 - xxx
 
